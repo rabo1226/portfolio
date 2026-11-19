@@ -22,4 +22,4 @@
 
 ## 기술 스택
 
-<img src="docs/tech-stack.gif" alt="대표 기술 스택" width="100%">
+<p align="center"><img src="docs/tech-stack.gif" alt="대표 기술 스택" width="60%"></p>
