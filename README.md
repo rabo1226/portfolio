@@ -4,21 +4,19 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/rabo1226/project1"><img src="docs/p1-rep.jpg" alt="AS-FAST 예약 신청 화면"></a><br>
-      1차 프로젝트<br>
-      <b><a href="https://github.com/rabo1226/project1">냉난방 A/S 예약 서비스</a></b>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/rabo1226/project2"><img src="docs/p2-rep.jpg" alt="도시가스 대시보드 지역 상세"></a><br>
-      2차 프로젝트<br>
-      <b><a href="https://github.com/rabo1226/project2">도시가스 수요 예측 대시보드</a></b>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/rabo1226/project3"><img src="docs/p3-rep.jpg" alt="관리자 버스 이용수요 지도"></a><br>
-      3차 프로젝트<br>
-      <b><a href="https://github.com/rabo1226/project3">버스 이용수요 예측·신고</a></b>
-    </td>
+    <td align="center" width="33%"><a href="https://github.com/rabo1226/project1"><img src="docs/p1-rep.jpg" alt="1차 프로젝트 예약 신청 화면"></a></td>
+    <td align="center" width="33%"><a href="https://github.com/rabo1226/project2"><img src="docs/p2-rep.jpg" alt="2차 프로젝트 지역 상세 화면"></a></td>
+    <td align="center" width="33%"><a href="https://github.com/rabo1226/project3"><img src="docs/p3-rep.jpg" alt="3차 프로젝트 관리자 화면"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>1차 프로젝트</b></td>
+    <td align="center"><b>2차 프로젝트</b></td>
+    <td align="center"><b>3차 프로젝트</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rabo1226/project1">github.com/rabo1226/project1</a></td>
+    <td align="center"><a href="https://github.com/rabo1226/project2">github.com/rabo1226/project2</a></td>
+    <td align="center"><a href="https://github.com/rabo1226/project3">github.com/rabo1226/project3</a></td>
   </tr>
 </table>
 
